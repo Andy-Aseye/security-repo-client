@@ -39,7 +39,7 @@ const Table = ({ loading, cveData }) => {
           <table className="w-full table-auto">
             <thead>
               <tr className="bg-blue-500 text-white">
-                <th className="px-4 py-2 whitespace-nowrap w-40">CVE ID</th>
+                <th className="px-4 py-2 whitespace-nowrap w-40">CPE ID</th>
                 <th className="px-4 py-2 whitespace-nowrap w-40">
                   Source Indentifier
                 </th>
